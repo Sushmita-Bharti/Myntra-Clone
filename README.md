@@ -1,3 +1,3 @@
-Myntra clone screenshot #Mini Project using HTML & CSS
-![127 0 0 1_5500_Practice_Myntra%20Clone_myntra html](https://github.com/Sushmita-Bharti/Myntra-Clone/assets/68850268/205914db-597e-45a5-81a9-dd7df13e2bf7)
+Myntra clone screenshot #Mini Project using HTML & CSS#
 
+![_C__Users_bhart_Documents_Practice_Myntra%20Clone_myntra html](https://github.com/Sushmita-Bharti/Myntra-Clone/assets/68850268/84305bdf-5c99-4910-9063-367dd948c826)
